@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Blockchain Consensus Percolation Framework"
+message: "If you use this repository, please cite the associated publication."
+type: software
+
+authors:
+  - family-names: "Thomas"
+    given-names: "Reji Kurien"
+    affiliation: "TOL Biotech USA"
+    orcid: "https://orcid.org/0009-0001-9411-5305"
+
+repository-code: "https://github.com/founder922/blockchain-consensus-percolation-framework"
+
+license: MIT
+
+keywords:
+  - blockchain
+  - percolation theory
+  - consensus networks
+  - finite-size scaling
+  - stochastic networks
+  - Byzantine consensus
+  - giant connected component
+  - Monte-Carlo simulation
+  - network criticality
+  - adversarial degradation
+
+abstract: >
+  Monte-Carlo simulation framework for analysing quorum-aware
+  percolation, consensus-feasibility thresholds, finite-size
+  scaling, susceptibility behaviour, and adversarial
+  connectivity degradation in blockchain consensus networks.
